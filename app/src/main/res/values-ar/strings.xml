@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HardTask 2</string>
+    <string name="register_title">يسجل</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="code">كود البلد</string>
+    <string name="mobile_number_hint">123456</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="country">دولة</string>
+    <string name="city">مدينة</string>
+    <string name="terms_message_text"> بالضغط على تسجيل فإنك توافق على ذلك<font color='#ffcc0000'>المصطلح والشروط</font></string>
+    <string name="term_conditions">Terms and Conditions</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="close">يغلق</string>
+</resources>
